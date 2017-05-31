@@ -1,0 +1,30 @@
+{
+  "name": "trawl",
+  "version": "0.0.1",
+  "description": "Chainable type handling framework for Javascript",
+  "keywords": [
+    "chain",
+    "type",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rchipka/trawl.git"
+  },
+  "author": {
+    "name": "rchipka",
+    "email": "chipka01@email.franklin.edu"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "license": "MIT",
+  "main": "index",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/rchipka/trawl/issues"
+  }
+}
